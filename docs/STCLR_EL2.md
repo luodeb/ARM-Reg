@@ -20,7 +20,7 @@ SCTLR_EL2 是一个 64 位的寄存器。
 
 ## 字段说明
 
-![image-20240729101445993](D:\Desktop\Note\ARM寄存器\assets\image-20240729101445993.png)
+![image-20240729101445993](./assets/image-20240729101445993.png)
 
 ### TIDCP，bit [63]
 
