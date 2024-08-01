@@ -24,6 +24,7 @@ nav:
 nav:
   - Armv8寄存器: 
     - 'STCLR_EL2': 'SCTLR_EL2.md'
+    - 'SPSR_EL2': 'SPSR_EL2.md'
     # - '编程安全': 'safety_program.md'
   # - RUST入门:
   #   - '介绍': 'base/easy.md'
